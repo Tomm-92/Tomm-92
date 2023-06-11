@@ -8,16 +8,12 @@
  
 </p>
  
-<h2 align="center"> Full Stack Junior Software Developer </br>
-JavaScript | React | Node | Express | SQL |  Sequelize | Jest | Mocha | Docker 
+<h2 align="center"> Full Stack Junior Software Developer </br><br>
  
- <h4 align="center">Check out my Linkedin: https://www.linkedin.com/in/thomasmwilkinson
 
-<h2 align="center">
-  Skills
-</h2>
- 
-<p align="center">🧑‍💻 JavaScript |
+
+
+ <p align="center">🧑‍💻 JavaScript |
 ⚛️ React |
 🖥️ Node.js | 
 🚂 Express |
@@ -25,5 +21,8 @@ JavaScript | React | Node | Express | SQL |  Sequelize | Jest | Mocha | Docker
 🚫 Sequelize |
 🃏 Jest |
 🍵 Mocha | 
-🐳 Docker 
+🐳 Docker
+ 
+ </br>
 
+ <h4 align="center">Check out my Linkedin: https://www.linkedin.com/in/thomasmwilkinson
