@@ -8,7 +8,8 @@
  
 </p>
  
-<h2 align="center"> Full Stack Software Developer - JavaScript | React | Node | Express | SQL | Jest | Docker |
+<h2 align="center"> Full Stack Software Developer </br>
+JavaScript | React | Node | Express | SQL |  Sequelize | Jest | Mocha | Docker 
  
  <h4 align="center">Check out my Linkedin: https://www.linkedin.com/in/thomasmwilkinson
 
@@ -20,7 +21,8 @@
 ⚛️ React |
 🖥️ Node.js | 
 🚂 Express |
-🗃️ SQL |
+⚙️ SQL |
+🚫 Sequelize |
 🃏 Jest |
 🍵 Mocha | 
 🐳 Docker 
