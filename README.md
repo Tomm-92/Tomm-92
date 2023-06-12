@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Tomm-92/Tomm-92/blob/main/Black Technology LinkedIn Banner-4.png" />
+<img src="https://github.com/Tomm-92/Tomm-92/blob/main/Black Technology LinkedIn Banner-8.png" />
 <p align="center">
  
 </p>
