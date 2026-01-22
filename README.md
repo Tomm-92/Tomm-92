@@ -3,25 +3,20 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/Tomm-92/Tomm-92/blob/main/Black Technology LinkedIn Banner-8.png" />
+<img src="https://github.com/Tomm-92/Tomm-92/blob/main/gitbanner.jpeg" />
 <p align="center">
  
 </p>
  
-<h2 align="center"> Full Stack Junior Software Developer </br><br>
- 
+<h2 align="center"> Software Engineer </br><br>
 
-
-
- <p align="center">🧑‍💻 JavaScript |
-⚛️ React |
-🖥️ Node.js | 
-🚂 Express |
-⚙️ SQL |
-🚫 Sequelize |
-🃏 Jest |
-🍵 Mocha | 
-🐳 Docker
+ <p align="center"> Golang |
+Kafka |
+GCP | 
+Kubernetes |
+Flink |
+KSQL |
+React
  
  </br>
 
